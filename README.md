@@ -6,7 +6,7 @@ https://tanny-may.github.io/project-Bureau-site/
 ## О проекте
 Задание из курса Skillbox - вёрстка адаптивной landing page для сайта проектного бюро "Евклид".
 
-![preview_Evklid](https://user-images.githubusercontent.com/111642725/231722220-3b522439-579a-488a-9654-db9ac5532325.png)
+<img width="4052" alt="evklid" src="https://github.com/tanny-may/project-Bureau-site/assets/111642725/f7ae8013-1a8b-4a7e-8b33-11b877e54e94">
 
 ## Характеристики
 Задание выполнено с учётом таких особенностей, как:
